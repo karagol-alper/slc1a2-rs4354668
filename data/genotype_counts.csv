@@ -1,0 +1,7 @@
+study_id,study,year,phenotype,ancestry,group,AA,AC,CC,n,published_coding,source_table
+rodek22,Rodek et al.,2022,MDD,EUR_PL,case,41,71,49,161,A/C,Table 2
+rodek22,Rodek et al.,2022,MDD,EUR_PL,control,154,234,74,462,A/C,Table 2
+merk19,Merk et al.,2019,SZ,EUR_PL,case,129,188,76,393,A/C,Table 1
+merk19,Merk et al.,2019,SZ,EUR_PL,control,154,234,74,462,A/C,Table 1
+thaweethee19,Thaweethee et al.,2019,MDD,SEAS_TH,case,8,39,53,100,T/G,Table 2
+thaweethee19,Thaweethee et al.,2019,MDD,SEAS_TH,control,7,47,46,100,T/G,Table 2

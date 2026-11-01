@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SLC1A2 rs4354668 and depression: forensic re-appraisal"
+type: software
+license: MIT
+authors:
+  - family-names: "Karagöl"
+    given-names: "Alper"
+    orcid: "https://orcid.org/0009-0001-7864-0732"
+    email: "akaragol@mit.edu"
+    affiliation: "Istanbul University, Istanbul Medical Faculty"
+  - family-names: "Karagöl"
+    given-names: "Taner"
+    orcid: "https://orcid.org/0009-0005-1011-7661"
+    email: "karagolt@mit.edu"
+    affiliation: "Istanbul University, Istanbul Medical Faculty"
+preferred-citation:
+  type: article
+  title: "Internal replication failure and excess significance in a glial glutamate transporter candidate for depression: a forensic re-appraisal of SLC1A2 rs4354668"
+  authors:
+    - family-names: "Karagöl"
+      given-names: "Alper"
+      orcid: "https://orcid.org/0009-0001-7864-0732"
+    - family-names: "Karagöl"
+      given-names: "Taner"
+      orcid: "https://orcid.org/0009-0005-1011-7661"
+  year: 2026

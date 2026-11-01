@@ -1,0 +1,7 @@
+study_id,study,year,phenotype,ancestry,n_cases,n_controls,control_freq_C,significant,direction,counts_published,n_approximate
+rodek22,Rodek et al.,2022,MDD,EUR_PL,161,462,0.413,1,1,1,0
+thaweethee19,Thaweethee et al.,2019,MDD,SEAS_TH,100,100,0.695,0,1,1,0
+merk19,Merk et al.,2019,SZ,EUR_PL,393,462,0.413,0,1,1,0
+zhang15,Zhang et al.,2015,SZ,EAS_CN,1117,2289,0.600,1,1,0,1
+nagai09,Nagai et al.,2009,SZ,EAS_JP,200,200,0.600,0,0,0,1
+deng04,Deng et al.,2004,SZ,EAS_JP,100,100,0.600,0,0,0,1
